@@ -10,12 +10,12 @@ GameObject:
   m_Component:
   - component: {fileID: 5942784856285039526}
   - component: {fileID: 6119224082052877489}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: collider
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5942784856285039526
 Transform:
@@ -63,12 +63,12 @@ GameObject:
   m_Component:
   - component: {fileID: 6293806632745027022}
   - component: {fileID: 6725868836619303347}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: collider (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &6293806632745027022
 Transform:
@@ -116,12 +116,12 @@ GameObject:
   m_Component:
   - component: {fileID: 5227687863190690696}
   - component: {fileID: 2793758026819624748}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: collider (2)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
+  m_StaticEditorFlags: 2147483647
   m_IsActive: 1
 --- !u!4 &5227687863190690696
 Transform:
@@ -220,7 +220,17 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: a068d66db68fb454baf3ac25f33d041c,
         type: 3}
       propertyPath: m_Name
-      value: sm_highwayRamp
+      value: highwayRamp
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a068d66db68fb454baf3ac25f33d041c,
+        type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: a068d66db68fb454baf3ac25f33d041c,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

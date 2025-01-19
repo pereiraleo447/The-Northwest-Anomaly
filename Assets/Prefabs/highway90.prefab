@@ -61,7 +61,17 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 6677eb0e657272b48acfa45d7dfa6c05,
         type: 3}
       propertyPath: m_Name
-      value: sm_highway90
+      value: highway90
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6677eb0e657272b48acfa45d7dfa6c05,
+        type: 3}
+      propertyPath: m_Layer
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 6677eb0e657272b48acfa45d7dfa6c05,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 2147483647
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
