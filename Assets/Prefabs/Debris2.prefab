@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 1010834926755330}
   - component: {fileID: 5679056535740941299}
   - component: {fileID: 907184998923166765}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Debris2
   m_TagString: hazard
   m_Icon: {fileID: 0}
