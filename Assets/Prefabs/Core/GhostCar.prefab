@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7668504127798199319}
   - component: {fileID: 4589455265012983211}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: rangeDetection
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -64,7 +64,7 @@ GameObject:
   - component: {fileID: 5417433103634386786}
   - component: {fileID: 2737899876556754239}
   - component: {fileID: 4279809588913033972}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: floodlight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -152,7 +152,7 @@ GameObject:
   - component: {fileID: 5034785716526871629}
   - component: {fileID: 5772575659713254255}
   - component: {fileID: 6382420177692759829}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: GhostCar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -319,7 +319,7 @@ GameObject:
   - component: {fileID: 1365193262385342235}
   - component: {fileID: 2165951406530898838}
   - component: {fileID: 1754599085916192381}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FLW
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1708,7 +1708,7 @@ GameObject:
   - component: {fileID: 8615433001318646611}
   - component: {fileID: 4065375450437452115}
   - component: {fileID: 2871234664935026436}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: spotLight
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1824,7 +1824,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2408333706008405177}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ghostCarMesh
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1861,7 +1861,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2534629693633627009}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: ghostCarLights
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1898,7 +1898,7 @@ GameObject:
   - component: {fileID: 6025993342663807297}
   - component: {fileID: 3661424724687650365}
   - component: {fileID: 11502413699110527}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: headlight2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -1982,7 +1982,7 @@ GameObject:
   - component: {fileID: 204059292328402075}
   - component: {fileID: 5067899509568773165}
   - component: {fileID: 7817776044407010868}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BRW
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3372,7 +3372,7 @@ GameObject:
   - component: {fileID: 8660140921122712609}
   - component: {fileID: 4549293065437668982}
   - component: {fileID: 1738979272940833198}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: BLW
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -4762,7 +4762,7 @@ GameObject:
   - component: {fileID: 117989470954574595}
   - component: {fileID: 265138825110451990}
   - component: {fileID: 6202271768591779653}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: body
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -5183,7 +5183,7 @@ GameObject:
   - component: {fileID: 1454214617227644640}
   - component: {fileID: 1147110160087433751}
   - component: {fileID: 993662339635249717}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: FRW
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -6572,7 +6572,7 @@ GameObject:
   - component: {fileID: 1579146658302282098}
   - component: {fileID: 8222173482503402708}
   - component: {fileID: 7917880621052081006}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: headlight1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
