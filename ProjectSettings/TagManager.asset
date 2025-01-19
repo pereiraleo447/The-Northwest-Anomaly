@@ -8,6 +8,7 @@ TagManager:
   - Health_Pickup
   - Energy_Pickup
   - Coin
+  - carShield
   layers:
   - Default
   - TransparentFX
