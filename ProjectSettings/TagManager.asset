@@ -9,6 +9,7 @@ TagManager:
   - Energy_Pickup
   - Coin
   - carShield
+  - BreakableWall
   layers:
   - Default
   - TransparentFX
